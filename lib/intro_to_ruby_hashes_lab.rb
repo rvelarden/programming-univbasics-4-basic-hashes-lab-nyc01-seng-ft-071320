@@ -1,5 +1,5 @@
 def new_hash
-  groceries = []
+  :name
 end
 
 def my_hash
