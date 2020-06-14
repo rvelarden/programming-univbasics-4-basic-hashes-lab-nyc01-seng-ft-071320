@@ -11,7 +11,7 @@ end
 
 def pioneer 
   prices = {
-  :name and 'Grace Hopper'}
+  :name => 'Grace Hopper'}
 end
 
 
