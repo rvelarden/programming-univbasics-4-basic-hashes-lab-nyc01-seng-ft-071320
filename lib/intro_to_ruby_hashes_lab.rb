@@ -1,5 +1,5 @@
 def new_hash
-  :name
+  prices = {}
 end
 
 def my_hash
