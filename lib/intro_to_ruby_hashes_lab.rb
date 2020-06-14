@@ -16,5 +16,7 @@ end
 
 
 def id_hash_generator(number)
+  price = {
   :id => number
+  }
 end
