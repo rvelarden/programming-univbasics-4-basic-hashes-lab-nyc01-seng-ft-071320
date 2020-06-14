@@ -9,8 +9,9 @@ def my_hash
 }
 end
 
-def pioneer
-  :name and 'Grace Hopper'
+def pioneer 
+  prices = {
+  :name and 'Grace Hopper'}
 end
 
 
