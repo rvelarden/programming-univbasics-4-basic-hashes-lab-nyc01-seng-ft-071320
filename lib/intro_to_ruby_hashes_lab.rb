@@ -3,7 +3,10 @@ def new_hash
 end
 
 def my_hash
-  
+  prices = {
+"bread" => 2.35,
+
+}
 end
 
 def pioneer
